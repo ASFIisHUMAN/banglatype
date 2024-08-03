@@ -9,6 +9,7 @@ body{
     flex-direction: column;
 }
 textarea{
+    font-family: 'Siyam Rupali', sans-serif;
     font-size: 300%;
     height: 80vh;
     width: 85vw;
